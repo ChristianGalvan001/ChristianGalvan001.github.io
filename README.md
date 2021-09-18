@@ -1,6 +1,6 @@
-### My Boise State Github page for CS-HU250! | By Christian Galvan 
+### My Boise State Github page for CS-HU250!
 
-The Github URl is [*ChristianGalvan001.github.io*](https://ChristianGalvan001.github.io)
+The Github URl is [*ChristianGalvan001.github.io*](https://ChristianGalvan001.github.io) | By Christian Galvan 
 
 Tasks:
  - [x] Finish [*Lab 1*](https://github.com/HindmanCourses/cs253-f21-lab01-ChristianGalvan001)
