@@ -1,5 +1,4 @@
-## My Boise State Github page for CS-HU250! 
-##### By Christian Galvan
+### My Boise State Github page for CS-HU250! | By Christian Galvan 
 
 The Github URl is [*ChristianGalvan001.github.io*](https://ChristianGalvan001.github.io)
 
